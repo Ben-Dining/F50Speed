@@ -1,0 +1,6 @@
+# 编译产物
+F50Speed
+F50Speed.app/
+
+# 系统文件
+.DS_Store
