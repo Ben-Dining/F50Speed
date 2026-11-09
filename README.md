@@ -11,7 +11,6 @@ macOS 菜单栏实时网速工具 · macOS menu-bar real-time speed monitor for 
 
 一个 macOS 菜单栏实时网速工具，直连中兴 F50 5G 热点（192.168.0.1）的免登录接口读取上下行速率；F50 不在身边时，自动回退到读取 Mac 自身网卡速率。单文件 Swift 源码，零依赖，本地编译即用。
 
-![菜单栏](assets/screenshot-menubar.png)
 
 ## 功能
 
@@ -26,7 +25,6 @@ macOS 菜单栏实时网速工具 · macOS menu-bar real-time speed monitor for 
 - **开机自动启动**
 - 无 Dock 图标、无外部依赖、无网络权限弹窗
 
-![悬浮窗](assets/screenshot-float.png)
 
 ## 系统要求
 
