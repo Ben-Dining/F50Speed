@@ -93,7 +93,6 @@ http://192.168.0.1/goform/goform_get_cmd_process?cmd=flux_realtime_tx_thrpt,flux
 
 A macOS menu-bar speed monitor that reads real-time up/down throughput directly from the ZTE F50 5G hotspot (192.168.0.1) via its login-free API. When the F50 is unreachable, it automatically falls back to measuring the Mac's own network interface. Single-file Swift source, zero dependencies, build and run.
 
-![Menu bar](assets/screenshot-menubar.png)
 
 ## Features
 
@@ -108,7 +107,6 @@ A macOS menu-bar speed monitor that reads real-time up/down throughput directly 
 - **Launch at login**
 - No Dock icon, no dependencies, no network permission prompts
 
-![Floating window](assets/screenshot-float.png)
 
 ## Requirements
 
