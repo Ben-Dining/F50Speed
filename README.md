@@ -29,7 +29,7 @@ A macOS menu-bar speed monitor that reads real-time up/down throughput directly 
 ## 构建 / Build
 
 ```bash
-git clone https://github.com/<your-name>/F50Speed.git
+git clone https://github.com/mickey-hsu/F50Speed.git
 cd F50Speed
 ./build.sh
 ```
