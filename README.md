@@ -34,7 +34,7 @@ macOS 菜单栏实时网速工具 · macOS menu-bar real-time speed monitor for 
 ## 构建
 
 ```bash
-git clone https://github.com/mickey-hsu/F50Speed.git
+git clone https://github.com/Ben-Dining/F50Speed.git
 cd F50Speed
 ./build.sh
 ```
@@ -116,7 +116,7 @@ A macOS menu-bar speed monitor that reads real-time up/down throughput directly 
 ## Build
 
 ```bash
-git clone https://github.com/mickey-hsu/F50Speed.git
+git clone https://github.com/Ben-Dining/F50Speed.git
 cd F50Speed
 ./build.sh
 ```
